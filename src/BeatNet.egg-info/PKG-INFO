@@ -10,7 +10,7 @@ License-File: LICENSE
 Requires-Dist: numpy
 Requires-Dist: cython
 Requires-Dist: librosa>=0.8.0
-Requires-Dist: numba==0.54.1
+Requires-Dist: numba==0.56.0
 Requires-Dist: scipy
 Requires-Dist: mido>=1.2.6
 Requires-Dist: pytest
